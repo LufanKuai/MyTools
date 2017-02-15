@@ -12,7 +12,10 @@
 @property (weak) IBOutlet NSTextField *oldTextFeild;
 @property (unsafe_unretained) IBOutlet NSTextView *showTextView;
 - (IBAction)tapChange:(id)sender;
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
 
 @end
 
